@@ -1,1 +1,3 @@
 .idea/
+artifacts/simple-image/kube-sample-apiserver
+kubeop-bot
